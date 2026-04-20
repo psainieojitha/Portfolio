@@ -30,7 +30,7 @@ const PROJECTS = [
     desc:
       "Conversational AI companion for mental wellness — tracks mood, provides evidence-based CBT exercises, and offers anonymous journaling with sentiment analysis.",
     tech: ["Python", "NLP", "Sentiment Analysis", "Firebase", "REST API"],
-    github: "https://github.com/psainieojitha",
+    github: "https://github.com/psainieojitha/KASK7",
     icon: "🧠",
     highlight: true,
   },
@@ -41,7 +41,7 @@ const PROJECTS = [
     desc:
       "Comprehensive platform for event planning, ticketing, and scheduling with real-time attendee tracking and automated notifications.",
     tech: ["React", "Node.js", "Express", "MongoDB", "Stripe API"],
-    github: "https://github.com/psainieojitha",
+    github: "https://github.com/ananthasail18/Event_Management_python_application",
     icon: "📅",
     highlight: true,
   },
